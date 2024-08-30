@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "name": ".git",
+      "path": ".git"
+    },
+    {
+      "name": ".vscode",
+      "path": ".vscode"
+    },
+    {
+      "name": "app",
+      "path": "app"
+    },
+    {
+      "name": "assets",
+      "path": "assets"
+    },
+    {
+      "name": "node_modules",
+      "path": "node_modules"
+    },
+    {
+      "name": "vendr",
+      "path": "vendr"
+    }
+  ]
+}
